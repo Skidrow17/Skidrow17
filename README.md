@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Silvan</h1>
 <h3 align="center">A passionate Salesforce Developer</h3>
 
-- 🔭 I’m currently working in **Deloitte**
+- 🔭 I’m currently working at **Deloitte**
 
 - 💬 Ask me about **Salesforce**
 
